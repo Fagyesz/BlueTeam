@@ -2,6 +2,9 @@
 
 - Mikro processszor
 - LCD
+- Button
+- Switch
+
 
 - Érzékelők:
 - Photo resistor
@@ -12,4 +15,4 @@
 - (Wind sensor)
 
 - Ellenállások (ohm):
-- 10k
+- 3* 10k
