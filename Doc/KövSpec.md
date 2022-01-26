@@ -38,6 +38,10 @@ Mi erre szeretnénk megoldás nyújtani hogy gyorsan olcsón és helyszinileg po
 
 ## Követelménylista
 
+- A két eszköznek kommunikálnia kell egymással.
+- A meglévő szenzorok által beolvasott adatok továbbítása
+- Az átküldött adatok megjelenítése a kijelzőn
+
 ## Fogalomtár
 
 
